@@ -1,7 +1,7 @@
 # NftFixPriceSaleForJettons
 
-Multi NFT sale smart contract (upgraded [Getgems NFT sale smart contract v3r3](https://github.com/getgems-io/nft-contracts/tree/main/packages/contracts/nft-fixprice-sale-v3)) 
-Supports both, TON & Jetton payments
+- Multi NFT sale smart contract (upgraded [Getgems NFT sale smart contract v3r3](https://github.com/getgems-io/nft-contracts/tree/main/packages/contracts/nft-fixprice-sale-v3)) 
+- Supports both, TON & Jetton payments
 
 ## Project structure
 
